@@ -11,6 +11,7 @@
     </project>
     <project path="vendor" name="sevsb/vendor" />
 
-    <project path="invoicing" remote="hub" name="fatfisharrow/keywithcolor" />
+    <project path="index" remote="hub" name="fatfisharrow/index" />
+    <project path="keywithcolor" remote="hub" name="fatfisharrow/keywithcolor" />
 </manifest>
 
