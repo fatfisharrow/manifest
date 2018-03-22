@@ -13,5 +13,6 @@
 
     <project path="index" remote="hub" name="fatfisharrow/index" />
     <project path="keywithcolor" remote="hub" name="fatfisharrow/keywithcolor" />
+    <project path="cocsheet" remote="hub" name="SakuraSinojun/cocsheet" />
 </manifest>
 
